@@ -1,0 +1,6 @@
+certifi==2019.11.28
+selenium==3.141.0
+sentry-sdk==0.14.2
+six==1.14.0
+urllib3==1.25.8
+user-agent==0.1.9
